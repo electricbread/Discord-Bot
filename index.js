@@ -174,4 +174,4 @@ client.on('message', message => {
   }
 });
 
-client.login('NTEyNzMxMzgxMTg5NTc0NjU3.DtF_VQ.nNuLQH0CCBpYH6rXhzMVrJNdLqs');
+client.login('Your token ');
